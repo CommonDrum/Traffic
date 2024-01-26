@@ -1,0 +1,3 @@
+MAS traffic_world{
+    agents: robot;
+}
